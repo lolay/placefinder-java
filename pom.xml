@@ -23,7 +23,7 @@
 	<artifactId>placefinder</artifactId>
 	<packaging>jar</packaging>
 	<name>Yahoo PlaceFinder Client</name>
-	<version>2-SNAPSHOT</version>
+	<version>2</version>
 
 	<scm>
 		<connection>scm:git:git://github.com/lolay/placefinder-java.git</connection>
