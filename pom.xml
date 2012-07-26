@@ -230,7 +230,7 @@
 	</dependencyManagement>
 	
 	<properties>
-		<cxf.version>2.2.11</cxf.version>
+		<cxf.version>2.5.4</cxf.version>
 		<servlet.version>2.5</servlet.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
